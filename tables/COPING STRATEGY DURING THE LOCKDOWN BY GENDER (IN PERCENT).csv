@@ -1,4 +1,4 @@
-particulars,gender_male_yes,gender_male_no,gender_female_yes,gender_female_no,gender_total_yes,gender_total_no
+particulars,gender_male_yes,gender_male_no,gender_female_yes,gender_female_no,percent_total_yes,percent_total_no
 Reducing number of meals per day,7,93,20,80,10.3,89.8
 Go a whole day without a meal,0,100,0,100,0,100
 Borrow food,14.7,85.3,31,69,18.8,81.3
