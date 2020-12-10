@@ -1,0 +1,28 @@
+district,province,ecological_region,mses,individuals,total_sample
+Illam,Province 1,Hill,25,12,37
+Dhankuta,Province 1,Hill,25,12,37
+Taplejung,Province 1,Mountain,25,13,38
+Morang,Province 1,Terai,25,13,38
+Dhanusha,Province 2,Terai,33,16,49
+Sarlahi,Province 2,Terai,33,17,50
+Parsa,Province 2,Terai,34,17,51
+Sindhuli,Bagmati Province,Hill,25,13,38
+Kathmandu valley,Bagmati Province,Hill,100,50,150
+Dhading,Bagmati Province,Hill,25,12,37
+Sindhupalchok,Bagmati Province,Mountain,25,12,37
+Chitwan,Bagmati Province,Terai,25,13,38
+Gorkha,Bagmati Province,Hill,25,12,37
+Kaski,Bagmati Province,Hill,25,12,37
+Baglung,Bagmati Province,Hill,25,13,38
+Mustang,Bagmati Province,Mountain,25,13,38
+Palpa,Province 5,Hill,25,12,37
+Rolpa,Province 5,Hill,25,12,37
+Rupandehi,Province 5,Terai,25,13,38
+Banke,Province 5,Terai,25,13,38
+Dailekh,Karnali Province,Hill,13,12,25
+Surkhet,Karnali Province,Hill,13,12,25
+Jumla,Karnali Province,Mountain,12,13,25
+Kalikot,Karnali Province,Mountain,12,13,25
+Dadeldhura,Sudurpashchim Province,Hill,16,16,32
+Darchula,Sudurpashchim Province,Mountain,17,17,34
+Kanchanpur,Sudurpashchim Province,Terai,17,17,34

@@ -1,0 +1,9 @@
+industries,average_start-up_capital_(in_npr),average_number_of_paid_workers,average_number_of_paid_workers_during_lockdown,average_days_of_business_operation_in_a_month,average_days_of_business_operation_in_a_month_during_lockdown,average_monthly_revenue_before_lockdown,average_monthly_revenue_during_lockdown,length_of_sustainability_if_lockdown_were_to_continue
+Agriculture,"524,487",1,1,29,17,"139,897","18,756",3.5
+Dairy and Livestock,"1,810,132",2,1,29,16,"199,474","73,211",1.7
+Trade,"813,623",1,0,28,4,"296,759","24,567",1.7
+Accommodation and Food,"1,181,630",3,2,30,1,"242,446","2,315",1.5
+Manufacturing,"1,440,882",3,1,27,4,"508,529","11,765",1.5
+Repairs & maintenance,"770,833",3,1,28,0,"239,083",833,1.8
+Transportation,"1,113,571",3,1,29,1,"213,786","5,357",1.8
+Others,"1,865,556",5,2,27,5,"381,143","37,651",1.8

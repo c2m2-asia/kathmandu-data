@@ -1,0 +1,8 @@
+province,average_monthly_gross_revenue_(in_npr),average_amount_of_gross_during_lockdown_(in_npr),change_in_monthly_gross_revenue_due_to_lockdown_(in_npr),average_business_expenses_a_month_(in_npr),average_business_expenses_a_month_during_lockdown_(in_npr),change_in_monthly_business_expenses_due_to_lockdown_(in_npr),average_months_of_sustainability_during_lockdown_(in_months),percent_received_support
+Province 1,326800,53470,273330,175230,61810,113420,2.1,0
+Province 2,404703,10119,394584,53574,29644,23930,1.5,0
+Bagmati Province,171110,10765,160345,87895,25985,61910,2,1.5
+Gandaki Province,368000,67921,300079,125317,60871,64446,2,1
+Province 5,349102,7408,341694,139719,65681,74038,2,0
+Karnali Province,130000,1600,128400,29060,14360,14700,0.9,0
+Sudurpashchim Province,150320,2500,147820,54670,4970,49700,2.1,0
