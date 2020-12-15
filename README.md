@@ -1,8 +1,6 @@
 
 # kathmandu-hub-data 
 
-> This repository aims to consolidate and digitize all data collected by the Cities' Covid Mitigation Mapping Project (C2M2) Kathmandu Hub.
-
 ### About C2M2
 
 The Cities Covid Mapping and Mitigation Project is  focused on mitigating and recovering from secondary impacts of COVID-19 in the region. The city projects will add missing maps, data and ICT inventories that shall help revive the livelihoods of those affected by the pandemic. The project is funded by the U.S. Department of State and managed by American Association of Geographers.
