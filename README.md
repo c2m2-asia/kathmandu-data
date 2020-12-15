@@ -7,6 +7,15 @@ The Cities Covid Mapping and Mitigation Project is  focused on mitigating and re
 
 The Kathmandu Hub is focued on understanding the second-order impact of Covid-19 on Kathmandu's tourism industry.
 
+## Data Index
+
+| Code | Name                                                                                                                                                                                                  | Type                  | Description                                                                   | Organizations | Time period of data | Notes |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------------------------------|---------------|---------------------|-------|
+| R01  | Rapid Assessment of Socio Economic Impact of COVID19 in Nepal [(view and download)](https://github.com/c2m2-asia/kathmandu-hub-data/tree/main/reports/R01_IIDS_UNDP_RAPID_ASSESSMENT_APR_2020/tables) | Report                | A detailed cross sectoral study on the immediate impacts of Covid-19 to Nepal | IIDS/UNDP     | April 2020          |       |
+| G01  | OSM data for tourism amenities in Kathmandu Valley [(view and download)](https://github.com/c2m2-asia/kathmandu-hub-data/tree/main/shapefiles/G01_OSM_TOURISM_FACILITIES_15_DEC_2020)                  | Geospatial data (SHP) | An extract of tourism related POIs from OpenStreetMap                         | OSM           | 15 December 2020    |       |
+|      |                                                                                                                                                                                                       |                       |                                                                               |               |                     |       |
+
+
 ### Browsing this data
 
 Our data comes from different sources, and is available freely for anyone to use through this repository. To help you navigate this repository, we've attempted to index all of the information using the following scheme:
@@ -18,11 +27,3 @@ Our data comes from different sources, and is available freely for anyone to use
     2. Folder names for geospatial data will be prefixed by the the letter `G` followed by a serial number and a descriptive name which includes a) source and b) date if available, e.g., `G01_OSM_TOURISM_FACILITIES_15_DEC_2020`
 
 2. Individuals data files when possible will be profixed by the report code, e.g., `R01_`, `G01`, followed by a prefix for the type of data `CSV`, `SHP`, `IMG` and a code, which is thenn followed by the name, e.g., `R01_CSV01_ALLOCATION_TO_STUDY_SAMPLE BY_DISTRICT.csv`
-
-### Data Index
-
-| Code | Name                                                                                                                                                                                                  | Type                  | Description                                                                   | Organizations | Time period of data | Notes |
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------------------------------|---------------|---------------------|-------|
-| R01  | Rapid Assessment of Socio Economic Impact of COVID19 in Nepal [(view and download)](https://github.com/c2m2-asia/kathmandu-hub-data/tree/main/reports/R01_IIDS_UNDP_RAPID_ASSESSMENT_APR_2020/tables) | Report                | A detailed cross sectoral study on the immediate impacts of Covid-19 to Nepal | IIDS/UNDP     | April 2020          |       |
-| G01  | OSM data for tourism amenities in Kathmandu Valley [(view and download)](https://github.com/c2m2-asia/kathmandu-hub-data/tree/main/shapefiles/G01_OSM_TOURISM_FACILITIES_15_DEC_2020)                  | Geospatial data (SHP) | An extract of tourism related POIs from OpenStreetMap                         | OSM           | 15 December 2020    |       |
-|      |                                                                                                                                                                                                       |                       |                                                                               |               |                     |       |
