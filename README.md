@@ -1,7 +1,5 @@
 
-# kathmandu-hub-data 
-
-### About C2M2
+### About the project
 
 The Cities Covid Mapping and Mitigation Project is  focused on mitigating and recovering from secondary impacts of COVID-19 in the region. The city projects will add missing maps, data and ICT inventories that shall help revive the livelihoods of those affected by the pandemic. The project is funded by the U.S. Department of State and managed by American Association of Geographers.
 
@@ -9,7 +7,7 @@ The Cities Covid Mapping and Mitigation Project is  focused on mitigating and re
 
 The Kathmandu Hub is focued on understanding the second-order impact of Covid-19 on Kathmandu's tourism industry.
 
-## Coding the data
+### Browsing this data
 
 Our data comes from different sources, and is available freely for anyone to use through this repository. To help you navigate this repository, we've attempted to index all of the information using the following scheme:
 
@@ -21,7 +19,7 @@ Our data comes from different sources, and is available freely for anyone to use
 
 2. Individuals data files when possible will be profixed by the report code, e.g., `R01_`, `G01`, followed by a prefix for the type of data `CSV`, `SHP`, `IMG` and a code, which is thenn followed by the name, e.g., `R01_CSV01_ALLOCATION_TO_STUDY_SAMPLE BY_DISTRICT.csv`
 
-## Data Index
+### Data Index
 
 | Code | Name                                                                                                                                                                                                  | Type                  | Description                                                                   | Organizations | Time period of data | Notes |
 |------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------------------------------|---------------|---------------------|-------|
