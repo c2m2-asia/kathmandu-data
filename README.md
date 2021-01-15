@@ -3,7 +3,7 @@
 
 The Cities Covid Mapping and Mitigation Project is  focused on mitigating and recovering from secondary impacts of COVID-19. About 10 city projects from all over the world will add missing maps, data and ICT inventories that shall help revive the livelihoods of those affected by the pandemic. The project is funded by the U.S. Department of State and managed by American Association of Geographers.
 
-### About the C2M2 Kathmandu Hub
+### About the C2M2 Kathmandu Project
 
 The Kathmandu project is focued on understanding the second-order impact of Covid-19 on Kathmandu's tourism industry.
 
