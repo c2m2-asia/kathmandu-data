@@ -5,7 +5,7 @@ The Cities Covid Mapping and Mitigation Project is  focused on mitigating and re
 
 ### About the C2M2 Kathmandu Hub
 
-The Kathmandu Hub is focued on understanding the second-order impact of Covid-19 on Kathmandu's tourism industry.
+The Kathmandu project is focued on understanding the second-order impact of Covid-19 on Kathmandu's tourism industry.
 
 ## Data Index
 
